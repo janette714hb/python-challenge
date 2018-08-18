@@ -2,7 +2,7 @@
 import os
 import csv
 
-pybank_csv = os.path.join('budget_data.csv')
+pybank_csv = os.path.join("..", "pybank", "budget_data.csv")
 
 #set lists to store data
 revenue = []

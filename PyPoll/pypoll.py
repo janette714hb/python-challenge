@@ -2,7 +2,7 @@
 import os
 import csv
 
-pypoll_csv = os.path.join('..', 'learnpython', 'election_data.csv')
+pypoll_csv = os.path.join("..", "pypoll", "election_data.csv")
 
 #set lists to store data
 candidate = []
